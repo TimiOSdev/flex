@@ -1,4 +1,6 @@
 # flex
+![Untitled](https://user-images.githubusercontent.com/20288905/77853167-ec837b80-719f-11ea-9833-7c98eccc836f.gif)
+
 This is made with SwiftUI. This whole project is made to see how the tableview would look like and then go into the detail section.
 
 ## Screenshot
